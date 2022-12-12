@@ -4,3 +4,4 @@ __pycache__/
 dummy
 dummy-*
 byteFiles/
+venv/

@@ -1,1 +1,0 @@
-overed_blocks, recovered_n = decode(file_symbols, blocks_quantity=file_blocks_n)
